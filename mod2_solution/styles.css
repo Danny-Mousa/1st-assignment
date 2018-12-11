@@ -21,13 +21,14 @@ p{
 	margin-bottom: 0px;
 	padding: 5px;
 	padding-top: 25px;
-	overflow: auto;
+	
 	
 }
 section{
 	position: relative;
 	border:1px solid black;
 	background-color: #00bfff;
+	overflow: auto;
 	
 }
 
